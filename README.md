@@ -14,10 +14,6 @@
 
   <h3 align="center">AI Podcast Platform</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -31,21 +27,8 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/zfAb95tJvZQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 Introduction</a>
-
 A cutting-edge AI SaaS platform that enables users to create, discover, and enjoy podcasts with advanced features like text-to-audio conversion with multi-voice AI, podcast thumbnail Image generation and seamless playback. 
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
 - TypeScript
@@ -90,13 +73,6 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/jsm_podcastr.git
-cd jsm_podcastr
-```
 
 **Installation**
 
@@ -409,66 +385,6 @@ export const voiceDetails = [
     name: "shimmer",
   },
 ];
-
-export const podcastData = [
-  {
-    id: 1,
-    title: "The Joe Rogan Experience",
-    description: "A long form, in-depth conversation",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/3106b884-548d-4ba0-a179-785901f69806",
-  },
-  {
-    id: 2,
-    title: "The Futur",
-    description: "This is how the news should sound",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/16fbf9bd-d800-42bc-ac95-d5a586447bf6",
-  },
-  {
-    id: 3,
-    title: "Waveform",
-    description: "Join Michelle Obama in conversation",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/60f0c1d9-f2ac-4a96-9178-f01d78fa3733",
-  },
-  {
-    id: 4,
-    title: "The Tech Talks Daily Podcast",
-    description: "This is how the news should sound",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/5ba7ed1b-88b4-4c32-8d71-270f1c502445",
-  },
-  {
-    id: 5,
-    title: "GaryVee Audio Experience",
-    description: "A long form, in-depth conversation",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/ca7cb1a6-4919-4b2c-a73e-279a79ac6d23",
-  },
-  {
-    id: 6,
-    title: "Syntax ",
-    description: "Join Michelle Obama in conversation",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/b8ea40c7-aafb-401a-9129-73c515a73ab5",
-  },
-  {
-    id: 7,
-    title: "IMPAULSIVE",
-    description: "A long form, in-depth conversation",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/8a55d662-fe3f-4bcf-b78b-3b2f3d3def5c",
-  },
-  {
-    id: 8,
-    title: "Ted Tech",
-    description: "This is how the news should sound",
-    imgURL:
-      "https://lovely-flamingo-139.convex.cloud/api/storage/221ee4bd-435f-42c3-8e98-4a001e0d806e",
-  },
-];
-```
 
 </details>
 
@@ -1592,29 +1508,3 @@ export default ProfileCard;
 </details>
 
 
-## <a name="links">🔗 Assets</a>
-
-Public assets used in the project can be found [here](https://drive.google.com/file/d/18tLuq1QY1Wxr4sqnMony2LCLDcyYCWdG/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
